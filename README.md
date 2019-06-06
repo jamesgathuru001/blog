@@ -1,9 +1,9 @@
 # Blog
 
-## Built By [Tom Chege](https://github.com/emdeechege/)
+## Built By [James Gathuru](https://github.com/jamesgathuru001)
 
 ## Description
-an application that allows users to use that one minute wisely. The users will submit their one minute pitches and other users will vote on them and leave comments to give their feedback on them.
+an application that allows users to use that blogs wisely. The users will submit their one minute pitches and other users will vote on them and leave comments to give their feedback on them.
 
 
 ## User Stories
@@ -49,7 +49,7 @@ Bloggers would like to:
 ### Cloning
 * In your terminal:
 
-        $ git clone https://github.com/emdeechege/peech/
+        $ git clone 
         $ cd peech
 
 ## Running the Application
@@ -79,7 +79,7 @@ Bloggers would like to:
 
 ## License
 
-Copyright (c) 2018 emdeechege
+Copyright (c) 2019 james gathuru
 
 ------------
 
