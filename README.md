@@ -49,7 +49,7 @@ Bloggers would like to:
 ### Cloning
 * In your terminal:
 
-        $ git clone 
+        $ git clone https://github.com/jamesgathuru001/blog.git
         $ cd peech
 
 ## Running the Application
